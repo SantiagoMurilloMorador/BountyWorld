@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Star Jedi;
+    src: local(starjedi sample jpg) url(Starjedi.ttf) format(ttf);
+}
+
+h1 {
+    font-family: 'Star Jedi';
+    font-weight: 200;
+    color: #D8B300;
+}
